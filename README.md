@@ -1,8 +1,6 @@
 <h1 align="center">Ola 👋, Meu nome é Jorge</h1>
 <h3 align="center">Eu sou dev Front-End, e uso HTML, CSS, um pouco de tailwind E JS</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jorge933&label=Profile%20views&color=0e75b6&style=flat" alt="jorge933" /> </p>
-
 <h3 align="left">Converse comigo:</h3>
 <p align="left">
 <a href="https://discord.gg/Jorgin#2177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Jorgin#2177" height="30" width="40" /></a>
