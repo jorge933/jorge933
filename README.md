@@ -1,5 +1,5 @@
 <h1 align="center">Ola 👋, Meu nome é Jorge</h1>
-<h3 align="center">Eu sou dev Front-End, e uso HTML, CSS, um pouco de tailwind E JS</h3>
+<h3 align="center">Comecei a codar no início de 2021 e me apaixonei pela área, e desde então venho estudando constantemente. 💻</h3>
 
 </p> <h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>  </a>   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://angular.io/docs" target="_blank" >
